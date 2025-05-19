@@ -1,7 +1,7 @@
 # Ex.08 Design of Interactive Image Gallery
-## Date:17.5.2025
-## Name:Vembarasi.A.R
-## Reg no:212224220120
+## Date:19.5.2025
+## Name:shivasri.s
+## Reg no:212224220098
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
 
